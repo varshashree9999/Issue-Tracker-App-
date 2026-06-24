@@ -57,3 +57,8 @@ updates and priority-based filtering.
 
 
 ![Resolved Screen](resolved%20screen.jpg)
+
+### SharePoint Backend - Data Source
+
+
+![SharePoint List](sharepoint_list.jpg)

@@ -1,4 +1,4 @@
- Issue-Tracker-App
+## Issue-Tracker-App
 
 Issue Tracker app using Power Apps & SharePoint as a Backend.
 
@@ -10,7 +10,7 @@ This application helps IT teams track, prioritize, and resolve
 issues by providing a centralized platform with real-time status
 updates and priority-based filtering.
 
-Features
+## Features
 
 - Raise and log new IT support tickets
 - View all active tickets with status and priority
@@ -18,15 +18,17 @@ Features
 - Search tickets by keyword
 - View detailed ticket information (ID, Title, Description,
   Status, Priority, Assigned To)
-- Dedicated Resolved Tickets screen for closed issues
+- Dedicated Resolved Tickets screen for closed issues.
 
- Technologies Used
+ ## Technologies Used
 
 - Microsoft Power Apps (Canvas App)
 - SharePoint (Data source)
+- Gallery Control (ticket listing)
+- Form Control (detail view)
 - Power Apps Filter() & Search() functions
 
-Key Highlights
+## Key Highlights
 
 - Multi-screen navigation (Main Screen → Resolved Tickets Screen)
 - Split-panel UI design (Gallery list + Detail view)

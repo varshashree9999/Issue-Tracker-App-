@@ -61,4 +61,4 @@ updates and priority-based filtering.
 ### SharePoint Backend - Data Source
 
 
-![SharePoint List](sharepoint_list.jpg)
+![SharePoint List](Sharepoint.jpg)

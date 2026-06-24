@@ -37,22 +37,14 @@ Key Highlights
 
  📸 Screenshots
 
-**Main Screen - All Tickets**
-
-
-![Main Screen](screenshots/main_screen.jpg)
+![Main Screen](main_screen.jpg)
 
 
 
-**Priority Filter - High / Medium / Low**
+
+![Priority Filter](High_priority.jpg)
 
 
-![Priority Filter](screenshots/High_priority.jpg)
 
 
-
-**Resolved Tickets Screen**
-
-
-![Resolved Screen](screenshots/resolved_screen.jpg)
-
+![Resolved Screen](resolved_screen.jpg)
